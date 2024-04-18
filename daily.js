@@ -10,7 +10,7 @@ var user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (
 var act_id = "e202303301540311"
 
 function telegram_notification(message) {
-    UrlFetchApp.fetch(`https://api.telegram.org/bot${telegram_token_bot}/sendmessage`, {
+    var res = UrlFetchApp.fetch(`https://api.telegram.org/bot${telegram_token_bot}/sendmessage`, {
         "method": "post",
         "payload": {
             "chat_id": telegram_userid,
