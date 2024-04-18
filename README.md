@@ -1,6 +1,9 @@
 # gs-honkai-star-rail
 Google Script/ Javascript for Automation Checkin Hoyolab for Honkai Star Rail (HSR)
 
+## Hoyolab
+- Hoyolab : [Visit Here](https://www.hoyolab.com/home)
+
 ## Service
 - Google Script : [Visit Here](https://script.google.com/home)
 
