@@ -4,6 +4,8 @@ Google Script/ Javascript for Automation Checkin Hoyolab for Honkai Star Rail (H
 ## Service
 - Google Script : [Visit Here](https://script.google.com/home)
 
+- Bot Father Telegram : [Visit Here](https://t.me/BotFather)
+
 ## Tool
 - Copy Cookies : [Download](https://chrome.google.com/webstore/detail/jcbpglbplpblnagieibnemmkiamekcdg)
 
