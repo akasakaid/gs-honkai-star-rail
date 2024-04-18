@@ -17,7 +17,7 @@ function telegram_notification(message) {
             "text": message
         }
     })
-    console.log(res)
+    console.log(res.getContentText())
 }
 
 function get_info() {
