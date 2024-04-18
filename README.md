@@ -1,6 +1,8 @@
 # gs-honkai-star-rail
 Google Script/ Javascript for Automation Checkin Hoyolab for Honkai Star Rail (HSR)
 
+## Service
+- Google Script : [Visit Here](https://script.google.com/home)
 
 ## Tool
 - Copy Cookies : [Download](https://chrome.google.com/webstore/detail/jcbpglbplpblnagieibnemmkiamekcdg)
