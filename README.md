@@ -1,6 +1,9 @@
 # gs-honkai-star-rail
 Google Script/ Javascript for Automation Checkin Hoyolab for Honkai Star Rail (HSR)
 
+## Installation / Deployment
+- Follow on this video for installation [https://youtu.be/wDnubV4L3Jg](https://youtu.be/wDnubV4L3Jg)
+
 ## Hoyolab
 - Hoyolab : <a href="https://www.hoyolab.com/home" target="_blank">Visit Here</a>
 
